@@ -24,6 +24,7 @@ Este proyecto implementa un sistema en Java para la gestión de un parqueadero, 
 - **Main** (menú interactivo)
 
 ## 🖼 Diagrama UML
+
 ![Diagrama UML](parqueadero_uml.png)
 
 ## ⚙️ Ejecución
@@ -37,14 +38,16 @@ Este proyecto implementa un sistema en Java para la gestión de un parqueadero, 
 
 4. Ejecutar la clase Main.java (paquete app).
 
-##💰 Tarifas por hora
+## 💰 Tarifas por hora
+
 Automóvil: $5,000
 
 Motocicleta: $3,000
 
 Camión: $10,000
 
-##📄 Ejemplo de uso
+## 📄 Ejemplo de uso
+
 === MENÚ PARQUEADERO ===
 1. Registrar entrada
 2. Registrar salida
@@ -65,4 +68,4 @@ Tipo de combustible: Gasolina
 
 Vehículo registrado: [Automóvil] ABC123 - Toyota Corolla (Entrada: 2025-08-12T19:50)
 
-##💻 Autor: Soed Alejandra Rodríguez Torres
+## 💻 Autor: Soed Alejandra Rodríguez Torres
