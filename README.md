@@ -25,7 +25,7 @@ Este proyecto implementa un sistema en Java para la gestión de un parqueadero, 
 
 ## 🖼 Diagrama UML
 
-![Diagrama UML](parqueadero_uml.png)
+![Diagrama UML](parqueadero.jpeg)
 
 ## ⚙️ Ejecución
 1. Clonar el repositorio:
